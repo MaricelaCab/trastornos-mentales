@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(231, 199, 226);
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif;
+    font-size: xx-large;
+}
+
+.titulo{
+    color: rgb(166, 67, 118);
+}
+
+h2{
+    color: rgb(199, 133, 133);
+}
+
+.imagen1{
+    height: 500px;
+
+    
+}
+
+.imagen2{
+    height: 500px
+}
+/* SIntaxis
+selectos {
+    propiedad:valor;
+}
+*/
